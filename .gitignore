@@ -1,0 +1,14 @@
+.terraform/
+terraform-provider-*
+*.tfstate
+*.tfstate.*
+*.backup
+crash.log
+*.log
+terraform.tfplan
+*.tfvars
+*.pem
+*.key
+.git/
+!.tpl
+!.tf
